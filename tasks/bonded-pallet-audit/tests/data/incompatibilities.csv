@@ -1,0 +1,4 @@
+sku_a,sku_b,reason
+BAT-LI,AERO-CLEAN,Lithium battery cartons may not ride with aerosols
+REAGENT-Q,AERO-CLEAN,Frozen reagents may not ride with aerosols
+REAGENT-Q,BAT-LI,Frozen reagents may not ride with lithium batteries

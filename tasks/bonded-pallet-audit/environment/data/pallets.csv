@@ -1,0 +1,9 @@
+pallet_id,ship_zone,temp_band,max_weight_kg,max_cube_m3,hazmat_ok,fixed_cost_usd,cutoff_rank
+P1,north,ambient,300,2.00,0,170,1
+P2,north,chilled,380,2.30,0,230,2
+P3,north,ambient,220,1.35,1,210,3
+P4,north,ambient,260,1.55,0,155,4
+P5,south,ambient,260,1.70,0,160,1
+P6,south,frozen,210,1.20,0,260,2
+P7,south,ambient,210,1.20,1,205,3
+P8,south,chilled,360,2.15,0,225,4

@@ -1,0 +1,23 @@
+carton_id,sku,ship_zone,temp_band,hazmat_class,weight_kg,cube_m3,customs_value_usd,promised_pallet,service_level,seal_status,hold_code,demand_score
+C001,VALVE-A,north,ambient,none,118,0.92,7200,P1,1,OK,,5
+C002,VALVE-A,north,ambient,none,126,0.95,7350,P1,1,OK,,5
+C003,SEAL-KIT,north,ambient,none,62,0.42,2600,P1,1,OK,,4
+C004,SEAL-KIT,north,ambient,none,68,0.44,2750,P2,1,OK,,4
+C005,PUMP-X,north,chilled,none,185,1.08,11800,P2,2,OK,,3
+C006,PUMP-X,north,chilled,none,174,1.02,11600,P2,2,OK,,3
+C007,BAT-LI,north,ambient,lithium,91,0.58,9100,P3,1,OK,,2
+C008,BAT-LI,north,ambient,lithium,88,0.56,9050,P3,1,OK,,2
+C009,AERO-CLEAN,north,ambient,aerosol,54,0.40,1700,P3,1,OK,,2
+C010,AERO-CLEAN,north,ambient,aerosol,51,0.38,1680,P4,1,BROKEN,seal mismatch,2
+C011,SENSOR-Z,south,ambient,none,73,0.50,6400,P5,1,OK,,5
+C012,SENSOR-Z,south,ambient,none,76,0.52,6500,P5,1,OK,,5
+C013,FILTER-M,south,ambient,none,84,0.66,2100,P5,1,OK,,4
+C014,FILTER-M,south,ambient,none,79,0.62,2050,P6,1,OK,,4
+C015,REAGENT-Q,south,frozen,none,47,0.36,4800,P6,2,OK,,1
+C016,REAGENT-Q,south,frozen,none,49,0.37,4850,P6,2,OK,,1
+C017,BAT-LI,south,ambient,lithium,97,0.60,9300,P7,1,OK,,2
+C018,AERO-CLEAN,south,ambient,aerosol,57,0.41,1690,P7,1,OK,,2
+C019,VALVE-A,south,ambient,none,121,0.94,7300,P8,1,OK,,3
+C020,PUMP-X,south,chilled,none,181,1.07,11900,P8,2,OK,customs hold,3
+C021,SENSOR-Z,north,ambient,none,72,0.51,6450,P4,1,OK,,5
+C022,FILTER-M,north,ambient,none,82,0.63,2080,P4,1,OK,,4
